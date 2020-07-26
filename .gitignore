@@ -1,1 +1,7 @@
 .idea/
+venv/
+.local/
+.npm/
+.config/
+.cache/
+.jupyter/
