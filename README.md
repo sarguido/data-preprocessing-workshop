@@ -9,7 +9,7 @@
 4. Run `docker-compose build`.
 5. To access the notebooks, run `docker-compose up` and go to the URL in the terminal output. 
 
-Docker Compose is automatically configured to launch Jupyter Lab. If you'd like to disable it, remove the following two lines from `docker-compose.yml`:
+Docker Compose is automatically configured to launch JupyterLab. If you'd like to disable it, remove the following two lines from `docker-compose.yml`:
 
 
     environment:
@@ -23,7 +23,7 @@ Docker Compose is automatically configured to launch Jupyter Lab. If you'd like 
 3. Create a virtual environment with `python -m venv venvname`. Feel free to replace `venvname` with whatever you'd like to name the environment.
 4. Type `source venvname/bin/activate` to activate the environment.
 5. Run `pip install -r requirements.txt`.
-6. run `jupyter notebook` to launch Jupyter Notebook
+6. Run `jupyter notebook` to launch Jupyter Notebook, or `jupyter lab` to launch JupyterLab.
 
 ## Workshop Outline
 
