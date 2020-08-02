@@ -6,3 +6,4 @@ venv/
 .cache/
 .jupyter/
 .ipython/
+.ipynb_checkpoints/
