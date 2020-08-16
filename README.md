@@ -54,3 +54,7 @@ Section 2: Feature selection
 - Removing correlated features
 - Using dimensionality reduction for feature selection
 - Using PCA to train a dataset
+
+Section 3: UFO dataset (if we have time!)
+- Apply various preprocessing techniques to a dataset of UFO sightings and discuss as a group.
+
